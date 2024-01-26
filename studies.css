@@ -855,8 +855,8 @@
   gap: var(--gap-xs);
 }
 .logo-frame-inner {
-  height: 0.8px;
-  width: 206.6px;
+  height: 9px;
+  width: 191px;
   position: relative;
   mix-blend-mode: normal;
 }
